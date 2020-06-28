@@ -5,6 +5,4 @@ Creating a new Github repository using the web-interface.
 
 And learning more about Github's user interface
 
-Now creating a new branch on Github
-
-Updates made locally
+Creating a conflict ! - Let's learn what to do then
