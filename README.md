@@ -11,3 +11,5 @@ Creating a conflict ! - Let's learn what to do then
 To create a conflict
 
 Using VS code and seeing the changes in github
+
+The second change
