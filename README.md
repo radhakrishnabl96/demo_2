@@ -8,4 +8,5 @@ And learning more about Github's user interface
 Creating a conflict ! - Let's learn what to do then
 
 ## Purpose
-Some new changes that will cause a conflict
+To create a conflict
+
